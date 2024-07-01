@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/parryj36/Jack-s-README-Portfolio](https://github.com/parryj36/Jack-s-README-Portfolio)
 
-- 📫 How to reach me **parryj36@hwbcymru.net**
+- 📫 How to reach me **parryj36@hwbcymru.net mkjk98 k
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +19,5 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parryj36&show_icons=true&locale=en" alt="parryj36" /></p>
+
+<p> align="left">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
