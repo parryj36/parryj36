@@ -9,10 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/parryj36/Jack-s-README-Portfolio](https://github.com/parryj36/Jack-s-README-Portfolio)
 
-- 📫 How to reach me '**parryj36@hwbcymru.net**'
+- 📫 How to reach me **parryj36@hwbcymru.net**
 
 <h3 align="left">Connect with me:</h3>
-## `parryj36@hwbcymru.net`
+<p align="left">parryj36@hwbcymru.net
 
 <p align="left">
 </p>
