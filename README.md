@@ -12,7 +12,8 @@
 - 📫 How to reach me **parryj36@hwbcymru.net mkjk98 k
 
 <h3 align="left">Connect with me:</h3>
-- **parryj36@hwbcymru.net**
+- parryj36@hwbcymru.net
+
 <p align="left">
 </p>
 
