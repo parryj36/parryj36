@@ -20,5 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parryj36&show_icons=true&locale=en" alt="parryj36" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parryj36)](https://github.com/parryj36/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parryj36&layout=compact)
